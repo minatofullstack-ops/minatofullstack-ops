@@ -94,9 +94,9 @@ Leading end-to-end development:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minatofullstack-ops&show_icons=true&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatofullstack-ops&layout=compact&hide_border=true" />
 
 </div>
 
@@ -106,7 +106,7 @@ Leading end-to-end development:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minatofullstack-ops" />
 
 </div>
 
@@ -116,7 +116,7 @@ Leading end-to-end development:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/minatofullstack-ops/minatofullstack-ops/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -135,8 +135,8 @@ Leading end-to-end development:
 
 ## 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+- GitHub: https://github.com/minatofullstack-ops
+- Email: minato.fullstack@gmail.com
 
 ---
 
