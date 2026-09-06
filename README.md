@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Minato
+# 👋 Hi, I'm Atsushi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Application+Developer;Former+UI%2FUX+Designer;Building+Useful+Software" />
 
@@ -91,13 +91,9 @@ Leading end-to-end development:
 ---
 
 ## 📈 GitHub Activity
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minatofullstack-ops&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatofullstack-ops&layout=compact&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats-ochre-psi-83.vercel.app/api?username=minatofullstack-ops&show_icons=true&hide_border=true&cache_bypass=test123" />
+<img height="170" src="https://github-readme-stats-ochre-psi-83.vercel.app/api/top-langs/?username=minatofullstack-ops&layout=compact&hide_border=true&cache_bypass=test123" />
 </div>
 
 ---
