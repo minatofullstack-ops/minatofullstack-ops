@@ -99,11 +99,8 @@ Leading end-to-end development:
 ---
 
 ## 📊 Contribution Graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minatofullstack-ops" />
-
+<img src="https://github-readme-activity-graph-three-eta.vercel.app/graph?username=minatofullstack-ops&custom_title=Atsushi's%20Contribution%20Graph&theme=github-compact&hide_border=true" />
 </div>
 
 ---
